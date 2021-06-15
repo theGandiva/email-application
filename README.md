@@ -1,3 +1,6 @@
+Create an email application.
+
+**Problem Statement** :
 You are an IT support administrator specialist and in charge with task of creating email accounts of new hires.
 
 Your application should do the following :-
